@@ -37,7 +37,7 @@ export const Footer = () => {
                 <Button 
                   variant="outline" 
                   size="lg"
-                  onClick={() => window.open('https://linkedin.com/in/gustavo-castelluccio', '_blank')}
+                  onClick={() => window.open('https://linkedin.com/in/castellucciogustavo', '_blank')}
                 >
                   LinkedIn
                 </Button>
